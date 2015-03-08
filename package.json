@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/immodel/defaults/issues"
   },
-  "homepage": "https://github.com/immodel/defaults"
+  "homepage": "https://github.com/immodel/defaults",
+  "dependencies": {}
 }
